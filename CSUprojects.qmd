@@ -1,5 +1,5 @@
 ---
-title: "CSUprojects"
+title: "CSU Projects"
 format: html
 ---
 
