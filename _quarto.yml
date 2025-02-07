@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "amadalinski.github.io"
+  title: "amadalinski.github.io "
   navbar:
     left:
       - href: index.qmd
@@ -15,5 +16,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
 
