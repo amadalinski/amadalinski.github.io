@@ -1,5 +1,6 @@
 ---
-title: "amadalinski.github.io"
+title: "Ava Madalinski"
+image: pictures/IMG_8026.jpeg
 ---
 
 This is a Quarto website.
