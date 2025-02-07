@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - CSUprojects.qmd
-
+      
 format:
   html:
     theme: cosmo
