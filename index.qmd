@@ -1,6 +1,6 @@
 ---
 title: "Ava Madalinski"
-image: Pictures/IMG_8026.jpeg
+image: 
 ---
 
 I am a motivated student at CSU, studying Ecosystem Science and Sustainability and Spanish. I have coursework experience in ecology, sustainability science, and watersheds.
