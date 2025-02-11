@@ -1,9 +1,15 @@
 ---
 title: "Ava Madalinski"
+image: images/senior_pic.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ava-madalinski-029293349/
+    - text: Email
+      href: mailto:ava.madalinski@gmail.com
 ---
 
 I am a motivated student at CSU, studying Ecosystem Science and Sustainability and Spanish. I have coursework experience in ecology, sustainability science, and watersheds.
-
-```{r}
-1 + 1
-```
