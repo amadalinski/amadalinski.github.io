@@ -5,6 +5,10 @@ toc: false
 about: 
   template: jolla
   image-shape: round
+image: images/tree.jpeg
+toc: false
+about:
+image-shape: rectangle
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/ava-madalinski-029293349/
