@@ -5,15 +5,11 @@ toc: false
 about: 
   template: jolla
   image-shape: round
-image: images/tree.jpeg
-toc: false
-about:
-image-shape: rectangle
-  links: 
+  links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/ava-madalinski-029293349/
     - text: Email
       href: mailto:ava.madalinski@gmail.com
 ---
 
-I am a motivated student at CSU, studying Ecosystem Science and Sustainability and Spanish. I have coursework experience in ecology, sustainability science, and watersheds.
+I am a motivated student at CSU, studying Ecosystem Science and Sustainability and Spanish. I have coursework experience in ecology, sustainability science, and watersheds. Outside of my classes, I am a part of the CSU triathlon team, I work for the Boys and Girls Club, and I enjoy hiking, cooking, and reading.

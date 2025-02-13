@@ -5,9 +5,7 @@ format: html
 
 Ava Madalinski
 
-Fort Collins, Colorado / (971) 288-9866 / [ava.madalinski\@gmail.com](mailto:ava.madalinski@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ava-madalinski-029293349/)
-
-\
+Fort Collins, Colorado / (971) 288-9866 / [ava.madalinski\@gmail.com](mailto:ava.madalinski@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ava-madalinski-029293349/)\
 
 Motivated Ecosystem Science and Sustainability major with interest in the field of environmental outreach and policy, driven to educate and shape our world for a more sustainable future. In professional settings, I bring a background of sustainability and ecological coursework, with qualities of efficiency and organization. I am eager to apply what I have learned and spread my enthusiasm for the human dimensions of environmental science.  
 
@@ -17,15 +15,15 @@ EDUCATION
 
 **B.S. in Ecosystem Science and Sustainability**
 
-**Minor in Spanish	May 2027**
+**Minor in Spanish May 2027**
 
-Colorado State University, Fort Collins, CO 	GPA: 4.0
+Colorado State University, Fort Collins, CO GPA: 4.0
 
 University Honors Student
 
 EXPERIENCE
 
-**Boys and Girls Club, Fort Collins, CO–Youth Development Specialist	November 2024-Present**
+**Boys and Girls Club, Fort Collins, CO–Youth Development Specialist November 2024-Present**
 
 -   Provide guidance and role modeling to members
 
@@ -37,7 +35,7 @@ EXPERIENCE
 
 \
 
-**Farmers’ Plate and Pantry, Carlton, OR– Wait Staff/Cashier	 May 2021-Present**
+**Farmers’ Plate and Pantry, Carlton, OR– Wait Staff/Cashier May 2021-Present**
 
 -   Processed payments of food and drink at the cash register
 
@@ -49,7 +47,7 @@ EXPERIENCE
 
 -   Waited tables and served customers in an accommodating manner
 
-**Portland Parks and Recreation–Customer Service Representative	June 2024-August 2024**
+**Portland Parks and Recreation–Customer Service Representative June 2024-August 2024**
 
 -   Assisted patrons with check-in and other transactions
 
@@ -59,7 +57,7 @@ EXPERIENCE
 
 -   Promoted a welcome and friendly atmosphere
 
-**Grace Art Institute, Portland, OR–Day Camp Counselor	 June 2022-August 2023**
+**Grace Art Institute, Portland, OR–Day Camp Counselor June 2022-August 2023**
 
 -   Helped run the on-site glass studio, loading and unloading kilns, glass cutting, demonstrating art projects
 
@@ -73,12 +71,14 @@ EXPERIENCE
 
 SKILLS
 
-	Excel, organization, dependability, flexibility, efficient, interpersonal skills
+```         
+Excel, organization, dependability, flexibility, efficient, interpersonal skills
+```
 
 CERTIFICATES
 
--   Oregon State Seal of Biliteracy in Spanish	**Issued 2023**
+-   Oregon State Seal of Biliteracy in Spanish **Issued 2023**
 
--   Red Cross CPR and First Aid certified	**Issued 2024**
+-   Red Cross CPR and First Aid certified **Issued 2024**
 
-Oregon Food Handlers Card	**Issued 2024**
+Oregon Food Handlers Card **Issued 2024**
