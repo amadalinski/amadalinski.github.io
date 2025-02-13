@@ -1,9 +1,8 @@
 ---
 title: "About"
+image: images/tree.jpeg
+toc: false
+about: 
+  image-shape: rectangle
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
+My skills include 
