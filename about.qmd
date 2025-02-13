@@ -3,6 +3,7 @@ title: "About"
 image: images/tree.jpeg
 toc: false
 about: 
+  template: solana
   image-shape: rectangle
 ---
 My skills include 
